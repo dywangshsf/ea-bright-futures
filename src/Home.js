@@ -26,7 +26,7 @@ export default function Home() {
       <section id="about" className="mb-16">
         <h2 className="text-2xl font-semibold mb-4">About Us</h2>
         <p>
-          EA Bright Futures is a youth-led nonprofit that blends music, coding,
+          @@ EA Bright Futures is a youth-led nonprofit that blends music, coding,
           and health education to uplift and empower children facing physical,
           emotional, or social challenges. The name "EA" stands for Elena and Allen, the young visionaries behind this initiative, and also represents our guiding values: <strong>Empathy & Action</strong>.
         </p>
