@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default function Home() {
   return (
     <main className="p-6 md:p-12 max-w-5xl mx-auto">
@@ -36,7 +38,7 @@ export default function Home() {
       <section id="programs" className="mb-16">
         <h2 className="text-2xl font-semibold mb-4">Our Mission</h2>
         <p>
-          To use the arts and technology to support children’s emotional and
+          To use the arts and technology to support children's emotional and
           physical well-being, while inspiring a generation of compassionate,
           curious young minds.
         </p>
@@ -61,7 +63,7 @@ export default function Home() {
             </p>
           </li>
           <li>
-            <h3 className="text-xl font-medium">📚 Little Doctor’s Lab</h3>
+            <h3 className="text-xl font-medium">📚 Little Doctor's Lab</h3>
             <p>
               Short videos and illustrated guides to help children understand
               medical experiences like doctor visits and vaccinations.
@@ -93,7 +95,7 @@ export default function Home() {
       <section id="contact" className="mb-16">
         <h2 className="text-2xl font-semibold mb-4">Get Involved</h2>
         <p>
-          Whether you’re a musician, educator, healthcare worker, or someone
+          Whether you're a musician, educator, healthcare worker, or someone
           who believes in the power of children to create positive change—we
           welcome you to be part of EA Bright Futures.
         </p>
