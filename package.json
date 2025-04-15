@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "serve public",
-    "build": "echo 'No build step required for static site'"
+    "start": "serve public"
   },
   "dependencies": {
     "serve": "^14.2.1"
